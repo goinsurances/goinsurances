@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Me llamo Antonio Justicia</h1>
-<h3 align="center">Soy un Data Scientist Senior🔹Soluciones innovadoras y disruptivas IT para empresas🔹Cofundador de GoInsurance.com ▶️Global Business Intelligence ➡️Big Data | Business Analytics | Advanced Analytics | Machine Learning</h3>
+<h3 align="center">Soy un Data Scientist Senior🔹Soluciones innovadoras y disruptivas IT para empresas🔹Cofundador de GoInsurance.com ▶️Global Business Intelligence ➡️Big Data | Business Analyst | Advanced Analytics | Machine Learning | Insurance </h3>
 
 - 👨‍💻 Mis proyectos están en: [https://github.com/goinsurances](https://github.com/goinsurances)
 
-- 💬 Puedes preguntarme por temas de **Python, Machine Learning, Big Data, Business Analytics...**
+- 💬 Puedes preguntarme por temas de **Python, Machine Learning, Big Data, Business Analytics, Bussinss Analyst, Insurance...**
 
 - 📫 Contactar conmigo en **antonio.justicia@go-insurances.com**
 
@@ -14,7 +14,7 @@
 
 ## Proyectos
 
-Estos son mis proyectos publicados
+Estos son mis proyectos publicados:
 
 | Proyecto | Descripción | Link |
 | ------ | ------ | ------ |
@@ -29,7 +29,6 @@ Estos son mis proyectos publicados
 
 <h3 align="left">Si deseas contratar mis servicios</h3>
 Desde mi empresa te podemos ayudar, cuentame cuales son tus necesidades actuales, es decir donde te encuentras ahora y donde te gustaría estar.
-
 
 Para ello puedes escribirme directamente o podemos tener una reunión, para ello haz click en este enlace:
 https://calendly.com/ajusticialopez/15min
