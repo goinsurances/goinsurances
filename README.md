@@ -21,7 +21,7 @@ Estos son mis proyectos publicados:
 | Regresión | Precio de la vivienda en la ciudad de Madrid, con datos del mes de octubre de 2022. | https://github.com/goinsurances/precio_vivienda_madrid |
 | Clasificación | Identificar los clientes interesados en contratar un seguro de viaje | https://github.com/goinsurances/viajes_contratar_seguro |
 | Series Temporales | Predecir el nº de repartos a realizar por una empresa de transportes | https://github.com/goinsurances/time_series_transportes | 
-| Recomendación de Imagenes | Recomendación de imagenes de moda | https://github.com/goinsurances/recomendar_imagenes |
+| Recomendación de Imagenes | Recomendación de imagenes de moda de una tienda online | https://github.com/goinsurances/recomendar_imagenes |
 | Clasificación de Imagenes | Clasificación de imagenes de moda | https://github.com/goinsurances/clasificar_imagen |
 
 ## Skills
