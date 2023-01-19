@@ -18,7 +18,7 @@ Estos son mis proyectos publicados
 
 | Proyecto | Link |
 | ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| Algoritmo de Regresión | [https://github.com/goinsurances/precio_vivienda_madrid][PlDb] |
 
 
 <h3 align="left">Languages and Tools:</h3>
