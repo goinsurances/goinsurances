@@ -17,7 +17,7 @@
 Estos son mis proyectos publicados
 
 | Proyecto | Descripción | Link |
-| ------ | ------ |
+| ------ | ------ | ------ |
 | Regresión | Precio de la vivienda en la ciudad de Madrid, con datos del mes de octubre de 2022. | [https://github.com/goinsurances/precio_vivienda_madrid] |
 | Recomendación de Imagenes | | https://github.com/goinsurances/recomendar_imagenes |
 | Clasificación de Imagenes | | https://github.com/goinsurances/clasificar_imagen |
