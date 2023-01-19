@@ -7,7 +7,7 @@
 
 - 📫 Contactar conmigo en **antonio.justicia@go-insurances.com**
 
-<h3 align="left">Contactar conmigo:</h3>
+## Mi Perfil en LinkedIn 
 <p align="left">
 <a href="https://linkedin.com/in/antonio-justicia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonio-justicia" height="30" width="40" /></a>
 </p>
@@ -18,7 +18,7 @@ Estos son mis proyectos publicados
 
 | Proyecto | Link |
 | ------ | ------ |
-| Algoritmo de Regresión | [https://github.com/goinsurances/precio_vivienda_madrid][PlDb] |
+| Algoritmo de Regresión | [https://github.com/goinsurances/precio_vivienda_madrid]|
 
 
 <h3 align="left">Languages and Tools:</h3>
