@@ -22,4 +22,18 @@ Desde mi empresa te podemos ayudar, cuentame cuales son tus necesidades actuales
 Para ello puedes escribirme directamente o podemos tener una reunión, para ello haz click en este enlace:
 https://calendly.com/ajusticialopez/15min
 
+## Plugins
+
+Dillinger is currently extended with the following plugins.
+Instructions on how to use them in your own application are linked below.
+
+| Plugin | README |
+| ------ | ------ |
+| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+
 
