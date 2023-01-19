@@ -34,6 +34,7 @@ Estos son mis proyectos publicados:
 | <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> | MySQL |
 | <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> | Oracle |
 | <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> | Cassandra |
+| <a href="https://powerbi.microsoft.com/es-es/" target="_blank" rel="noreferrer"> <img src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg" alt="powerbi" width="40" height="40"/> </a> | Power BI |
 
 ## Si deseas contratar mis servicios
 
