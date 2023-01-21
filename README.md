@@ -23,7 +23,7 @@ Estos son mis proyectos publicados:
 | Series Temporales | Predecir el nº de repartos a realizar por una empresa de transportes | https://github.com/goinsurances/time_series_transportes | 
 | Recomendación de Imagenes | Recomendación de imagenes de moda de una tienda online | https://github.com/goinsurances/recomendar_imagenes |
 | Clasificación de Imagenes | Clasificación de imagenes de moda | https://github.com/goinsurances/clasificar_imagen |
-| Clustring | Clustering de clientes | https://github.com/goinsurances/clustering_clientes | 
+| Clustering | Clustering de clientes | https://github.com/goinsurances/clustering_clientes | 
 
 ## Skills
 
