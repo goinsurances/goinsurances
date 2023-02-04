@@ -24,6 +24,7 @@ Estos son mis proyectos publicados:
 | Recomendación de Imagenes | Recomendación de imagenes de moda de una tienda online | https://github.com/goinsurances/recomendar_imagenes |
 | Clasificación de Imagenes | Clasificación de imagenes de moda | https://github.com/goinsurances/clasificar_imagen |
 | Clustering | Clustering de clientes | https://github.com/goinsurances/clustering_clientes | 
+| Reseñas | Análisis de reseñas de un E-Commerce | https://github.com/goinsurances/comentarios_ecommerce | 
 
 ## Skills
 
