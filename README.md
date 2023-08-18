@@ -25,6 +25,7 @@ Estos son mis proyectos publicados:
 | Clasificación de Imagenes | Clasificación de imagenes de moda | https://github.com/goinsurances/clasificar_imagen |
 | Clustering | Clustering de clientes | https://github.com/goinsurances/clustering_clientes | 
 | Reseñas | Análisis de reseñas de un E-Commerce | https://github.com/goinsurances/comentarios_ecommerce | 
+| Cuadro de Mando |Ventas de una Carnicería | https://github.com/goinsurances/ventas_pyme | 
 
 ## Skills
 
@@ -43,7 +44,7 @@ Estos son mis proyectos publicados:
 
 Desde mi empresa te podemos ayudar, cuentame cuales son tus necesidades actuales, es decir donde te encuentras ahora y donde te gustaría estar.
 
-Para ello puedes escribirme directamente o podemos tener una reunión, para ello haz click en este enlace:
+Para ello puedes escribirme directamente, llamarme por telefono o podemos tener una reunión, para ello haz click en este enlace:
 https://calendly.com/ajusticialopez/15min
 
 
